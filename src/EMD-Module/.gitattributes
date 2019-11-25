@@ -1,0 +1,4 @@
+
+ot/lp/*.cpp linguist-vendored
+ot/lp/*.h linguist-vendored
+*.ipynb linguist-documentation
